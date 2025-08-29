@@ -1,1 +1,0 @@
-import"../chunks/DsnmJJEf.js";import"../chunks/Dt0WG65Q.js";import{F as a,D as e,G as i,H as s}from"../chunks/FobJdX3h.js";import"../chunks/CfLVxiYC.js";import{P as m}from"../chunks/BHXGf-SS.js";var p=a('<div class="socials-parent svelte-1mt5dq6"><!></div>');function f(o){var r=p(),t=i(r);m(t,{includeWebsite:!0}),s(r),e(o,r)}export{f as component};
